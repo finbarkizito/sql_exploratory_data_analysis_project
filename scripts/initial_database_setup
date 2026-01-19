@@ -1,6 +1,6 @@
 /*
 =============================================================
-Database and Gold Layer Initialisation
+Database and Gold Layer Initialisation.
 =============================================================
 Purpose:
     This script sets up a clean analytics database called
