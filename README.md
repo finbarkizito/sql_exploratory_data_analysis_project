@@ -76,7 +76,7 @@ The analysis is centred on three core tables:
 - **Grouping:** `GROUP BY`, `DISTINCT`
 - **Joins:** `LEFT JOIN` for fact–dimension integration
 - **System functions:** `INFORMATION_SCHEMA`, `DATEDIFF`, `GETDATE()`
-- **Window functions:** `ROW_NUMBER` for ranking analysis
+- **Window functions:** `ROW_NUMBER` for ranking analysis.
 
 ---
 
