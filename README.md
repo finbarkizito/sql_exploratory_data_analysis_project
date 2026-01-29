@@ -56,13 +56,13 @@ Although the focus is analytical, the environment is prepared using one of the f
 The analysis is centred on three core tables:
 
 - **`fact_sales`**  
-  Transaction-level measures such as `sales_amount`, `quantity`, and `order_date`.
+  Transaction-level measures such as `sales_amount`, `quantity`, and `order_date`
 
 - **`dim_customers`**  
-  Customer attributes including `customer_key`, `country`, `gender`, and `birthdate`.
+  Customer attributes including `customer_key`, `country`, `gender`, and `birthdate`
 
 - **`dim_products`**  
-  Product attributes including `product_key`, `category`, `subcategory`, and `cost`.
+  Product attributes including `product_key`, `category`, `subcategory`, and `cost`
 
 ---
 
