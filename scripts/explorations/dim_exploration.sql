@@ -1,6 +1,6 @@
 -- =====================================================
 -- Dimensions Exploration
--- Purpose: Inspect distinct values to understand categorical domains and granularity
+-- Purpose: To inspect distinct values to understand categorical domains and granularity
 -- =====================================================
 
 -- Distinct countries in the customer dimension
