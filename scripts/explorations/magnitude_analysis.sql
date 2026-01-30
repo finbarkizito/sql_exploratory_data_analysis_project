@@ -1,6 +1,6 @@
 -- =====================================================
 -- 05 Magnitude Analysis
--- Purpose: Compare business measures across dimensions (e.g., customers by country,
+-- Purpose: To Compare business measures across dimensions (e.g., customers by country,
 --          revenue by category, items sold by country). These queries help identify
 --          where volume and value concentrate across the model.
 -- =====================================================
