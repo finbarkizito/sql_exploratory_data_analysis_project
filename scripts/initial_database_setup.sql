@@ -5,7 +5,7 @@ Database and Gold Layer Initialisation.
 Purpose:
     This script sets up a clean analytics database called
     'DataWarehouseAnalytics'. If the database already exists,
-    it is forcibly dropped and recreated to guarantee a fresh
+    it is dropped and recreated to guarantee a fresh
     environment. The script then defines the Gold schema and
     creates the core dimension and fact tables used for
     analytical reporting.
