@@ -5,7 +5,7 @@ This project focuses on **Exploratory Data Analysis (EDA)** using **Microsoft SQ
 
 ---
 
-## Business Problem / Objective
+## Business Problem 
 The objective is to convert raw database tables into actionable business insight by asking structured, decision-driven questions. The analysis is guided by a **Dimensions and Measures** framework to assess sales performance, customer demographics, and product behaviour.
 
 **Key objectives:**
@@ -66,7 +66,7 @@ The analysis is centred on three core tables:
 
 ---
 
-## Tools and Technologies Used
+## Tools Used
 - **RDBMS:** Microsoft SQL Server (Express Edition)
 - **Interface:** SQL Server Management Studio (SSMS)
 
