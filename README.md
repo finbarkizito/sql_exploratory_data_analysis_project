@@ -1,4 +1,4 @@
-# SQL Exploratory Data Analysis (EDA) Project
+# SQL Exploratory Data Analysis Project
 
 ## Project Overview
 This project focuses on **Exploratory Data Analysis (EDA)** using **Microsoft SQL Server**. The goal is to apply a structured, repeatable framework to explore, profile, and analyze sales, customer, and product data. The work mirrors a real-world scenario where a data analyst joins an existing team, gains access to a database, and must quickly understand the data to answer core business questions.
