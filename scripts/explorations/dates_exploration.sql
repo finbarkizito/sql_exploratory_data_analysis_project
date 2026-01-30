@@ -10,7 +10,7 @@ SELECT
     DATEDIFF(year, MIN(order_date), MAX(order_date)) AS order_range_in_years
 FROM gold.fact_sales;
 
--- Customer age bounds based on birthdate (oldest vs youngest)
+-- Customer age bounds based on birthdate (oldest v youngest)
 SELECT
     MIN(birthdate) AS oldest_birthdate,
     DATEDIFF(year, MIN(birthdate), GETDATE()) AS oldest_age,
