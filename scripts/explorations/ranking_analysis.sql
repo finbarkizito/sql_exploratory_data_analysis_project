@@ -1,6 +1,6 @@
 -- =====================================================
 -- 06 Ranking Analysis
--- Purpose: Rank dimension members by measures to identify top/bottom performers
+-- Purpose: To rank dimension members by measures to identify top/bottom performers
 -- Examples: top products by revenue, worst products by revenue, top subcategories,
 --           top customers by revenue, bottom customers by order count.
 -- =====================================================
