@@ -37,7 +37,7 @@ The analysis is performed entirely on the **Gold Layer** of a data warehouse.
 
 ---
 
-## ETL / Data Processing Approach
+## ETL 
 Although the focus is analytical, the environment is prepared using one of the following approaches:
 
 1. **SQL Script Execution:** Running scripts to create schemas and load tables.
