@@ -1,6 +1,6 @@
 -- =====================================================
 -- Database Exploration
--- Purpose: Get a quick inventory of tables and inspect table metadata (columns)
+-- Purpose: To get a quick inventory of tables and inspect table metadata (columns)
 -- =====================================================
 
 -- First, we explore all tables/views available via INFORMATION_SCHEMA
