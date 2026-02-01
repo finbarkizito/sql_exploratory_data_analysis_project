@@ -17,5 +17,5 @@ FROM gold.dim_products
 ORDER BY 1, 2, 3;
 
 -- =====================================================
-Exploration Satisfactory
+Exploration satisfactory
 -- =====================================================
