@@ -1,6 +1,6 @@
 -- =====================================================
 -- DATES EXPLORATION
--- Purpose: Understand date coverage (min/max) and approximate timespans in the dataset
+-- Purpose: To understand date coverage (min/max) and approximate timespans in the dataset
 -- =====================================================
 
 -- Order date coverage and approximate range in years
