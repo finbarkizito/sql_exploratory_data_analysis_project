@@ -92,7 +92,7 @@ The exploratory analysis produced several high-level business insights:
 
 ---
 
-## How This Project Demonstrates Data Analytics Skills
+## Analysis carried out. 
 - **Data profiling:** Explored an unfamiliar database using system metadata tables instead of relying on UI inspection.
 - **Advanced SQL analysis:**
   - Performed **Magnitude Analysis** (e.g. total sales by country and category).
