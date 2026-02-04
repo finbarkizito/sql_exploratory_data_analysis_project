@@ -10,7 +10,7 @@ The analysis is guided by a **Dimensions and Measures** framework to assess sale
 
 **Key objectives:**
 - **Data Profiling:** Understand database structure, table relationships, and column metadata.
-- **Strategic Analysis:** Answer targeted business questions such as *“Who are the top customers?”* and *“Which categories generate the most revenue?”*
+- **Strategic Analysis:** Answer targeted business questions like *“Who are the top customers?”* and *“Which categories generate the most revenue?”*
 - **Trend Analysis:** Identify the historical time span of the data and understand sales activity over time.
 
 ---
