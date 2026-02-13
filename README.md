@@ -16,7 +16,7 @@ The analysis is guided by a **Dimensions and Measures** framework to assess sale
 ---
 
 ## Data Sources and Inputs
-The project uses a pre-built **DataWarehouseAnalytics** database populated through CSV files or SQL scripts.
+Here, we use a pre-built **DataWarehouseAnalytics** database populated through CSV files or SQL scripts.
 
 **Source data:**
 - **Format:** CSV flat files or SQL Server database backup (`.bak`)
